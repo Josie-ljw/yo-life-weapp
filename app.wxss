@@ -17,7 +17,11 @@
 }
 
 .color-gray {
-  color: gray;
+  color: #616161;
+}
+
+.color-primary {
+  color: #6C91FF;
 }
 
 .p20 {
